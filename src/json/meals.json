@@ -1,0 +1,65 @@
+{
+    "meals" : [
+        {
+          "id": 1,
+          "name": "Spaghetti Carbonara",
+          "price": 12.99,
+          "description": "Classic Italian pasta with creamy sauce, pancetta, and parmesan."
+        },
+        {
+          "id": 2,
+          "name": "Chicken Tikka Masala",
+          "price": 14.99,
+          "description": "Tender chicken in a spiced tomato cream sauce served with rice."
+        },
+        {
+          "id": 3,
+          "name": "Margherita Pizza",
+          "price": 10.99,
+          "description": "Traditional pizza topped with fresh mozzarella, basil, and tomatoes."
+        },
+        {
+          "id": 4,
+          "name": "Beef Tacos",
+          "price": 9.99,
+          "description": "Soft corn tortillas filled with seasoned beef, lettuce, and salsa."
+        },
+        {
+          "id": 5,
+          "name": "Caesar Salad",
+          "price": 8.99,
+          "description": "Crisp romaine, parmesan, croutons, and Caesar dressing."
+        },
+        {
+          "id": 6,
+          "name": "Vegetable Stir-Fry",
+          "price": 11.49,
+          "description": "Seasonal vegetables sautéed in a savory soy sauce with rice."
+        },
+        {
+          "id": 7,
+          "name": "Grilled Salmon",
+          "price": 17.99,
+          "description": "Fresh salmon fillet grilled to perfection, served with seasonal veggies."
+        },
+        {
+          "id": 8,
+          "name": "Pancakes Stack",
+          "price": 7.99,
+          "description": "Fluffy pancakes served with maple syrup and fresh berries."
+        },
+        {
+          "id": 9,
+          "name": "Shrimp Fried Rice",
+          "price": 13.49,
+          "description": "Savory fried rice stir-fried with shrimp and mixed vegetables."
+        },
+        {
+          "id": 10,
+          "name": "Chocolate Lava Cake",
+          "price": 6.99,
+          "description": "Rich chocolate cake with a molten center, served with vanilla ice cream."
+        }
+      ]
+      
+}

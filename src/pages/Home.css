@@ -1,0 +1,70 @@
+.meal-container {
+    margin: auto;
+    width: 800px;
+    background-color: #f8f9fa; 
+  }
+  
+  .meal-card {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(236, 236, 236);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    width: 100%; 
+    text-align: center;
+    transition: transform 0.2s;
+    margin: 5px 0;
+  }
+  
+.meal-actions {
+    display: flex;
+    flex-direction: column;
+}
+
+  .meal-card:hover {
+    transform: scale(1.05);
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+  }
+  
+  h3 {
+    color: #28a745; 
+    font-size: 1.25rem;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type='number'] {
+    width: 60px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  input[type='number']:focus {
+    outline: none;
+    border-color: #28a745; 
+  }
+  
+  .add-button {
+    background-color: #28a745; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .add-button:hover {
+    background-color: #218838; 
+  }
